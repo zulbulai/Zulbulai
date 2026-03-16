@@ -1,112 +1,73 @@
-<!-- हेडर सेक्शन एनिमेटेड वेव के साथ -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0e75b6%26height%3D150%26section%3Dheader%26text%3DHi,%2520I%27m%2520Jitendra%2520Kumar%2520👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0e75b6%26height%3D120%26section%3Dheader%26text%3DHi%2520👋,%20I'm%20Jitendra%20Kumar&fontSize=35&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-<!-- टाइपिंग एनिमेशन और प्रोफाइल व्यूज -->
-
-<div align="center">
 <a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D0E75B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3D🚀+Passionate+Full+Stack+Developer;💻+Mastering+React,+Node.js+%26+More;🌐+Building+Scalable+Web+Apps;⚡+Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D20%26pause%3D1000%26color%3D0E75B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DPassionate%2BFull%2BStack%2BDeveloper%3BReact,%2BNode.js%2B%2526%2BWeb%2BDev%3BBuilding%2BScalable%2BWeb%2BApps" alt="Typing SVG" />
 </a>
 
+<p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dzulbulai%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue" alt="zulbulai" /></a>
+</p>
 
-
-
-
-<a href="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dzulbulai%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dfor-the-badge">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://komarev.com/ghpvc/?username=zulbulai%26label=Profile%20Views%26color=0e75b6%26style=for-the-badge%26logo=github" alt="Profile Views" />
-</a>
+<p>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dzulbulai%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat-square" alt="zulbulai" />
+<a href="https://twitter.com/Jitendrauno" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/twitter/follow/Jitendrauno%3Flogo%3Dtwitter%26style%3Dflat-square%26color%3D1DA1F2" alt="Jitendrauno" /></a>
+</p>
 </div>
 
-<!-- About Me सेक्शन (लेफ्ट में टेक्स्ट, राइट में एनिमेटेड GIF) -->
+👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td width="65%">
-<h2 align="left">👨‍💻 About Me</h2>
+🔭 I'm currently working on MERN Stack Web Applications
+
+🌱 I'm currently learning Next.js & Cloud Architecture
+
+👯 I'm looking to collaborate on Open-source projects
+
+🤝 I'm looking for help with Advanced UI/UX Architecture
+
+💬 Ask me about React, Node.js, and web development
+
+📫 How to reach me: jitendraeditiz@gmail.com
+
+👨‍💻 All of my projects are available at https://yourportfolio.com
+
+⚡ Fun fact: I turn coffee into code and bugs into features! ☕
+
+🛠️ Languages and Tools:
+
 <p align="left">
-I am a highly motivated <b>Full Stack Developer</b> with a deep passion for building robust, scalable, and user-friendly web applications. I bridge the gap between frontend elegance and backend architecture.
-</p>
-<ul>
-<li>🔭 I'm currently working on <b>MERN Stack Web Applications</b></li>
-<li>🌱 I'm currently learning <b>Next.js & Cloud Architecture (AWS)</b></li>
-<li>👯 I'm looking to collaborate on <b>Open-Source & Innovative Startups</b></li>
-<li>💬 Ask me about <b>React, Node.js, Express, and UI/UX Architecture</b></li>
-<li>📫 How to reach me: <b><a href="mailto:jitendraeditiz@gmail.com">jitendraeditiz@gmail.com</a></b></li>
-<li>👨‍💻 Portfolio: <b><a href="https://yourportfolio.com">Visit My Website</a></b> <!-- यहाँ अपना असली पोर्टफोलियो लिंक डालें --></li>
-<li>⚡ Fun fact: <b>I turn coffee into code and bugs into features! ☕🐛</b></li>
-</ul>
-</td>
-<td width="35%" align="center">
-<!-- एनिमेटेड कोडिंग GIF -->
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="100%" alt="Coding Animation" />
-</td>
-</tr>
-</table>
-
-<!-- शानदार और एनिमेटेड स्किल्स आइकन्स (Skillicons) -->
-
-<h2 align="center">🛠️ My Arsenal & Tech Stack</h2>
-<p align="center">
-<i><small>Technologies and tools I use to bring ideas to life.</small></i>
-</p>
-<p align="center">
-<a href="https://www.google.com/search?q=https://skillicons.dev">
 <!-- Frontend -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,vue,tailwind,sass,figma%26perline%3D10" />
-
-
-
-
-
-<!-- Backend & Database -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,php,python,cpp,mongodb,mysql,firebase%26perline%3D10" />
-
-
-
-
-
-<!-- DevOps, Cloud & Tools -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,docker,linux,androidstudio,flutter,git,github%26perline%3D10" />
+<a href="https://www.google.com/search?q=https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,vue,tailwind,sass,figma" />
+</a>
+</p>
+<p align="left">
+<!-- Backend & DB -->
+<a href="https://www.google.com/search?q=https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,php,python,cpp,mongodb,mysql,firebase" />
+</a>
+</p>
+<p align="left">
+<!-- Tools -->
+<a href="https://www.google.com/search?q=https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,docker,linux,androidstudio,flutter,git,github" />
 </a>
 </p>
 
-<!-- GitHub Stats & Trophies (डार्क/प्रीमियम थीम के साथ) -->
+📊 GitHub Analytics:
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-<!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dzulbulai%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15%26row%3D1%26column%3D6" alt="Trophies" />
-</a>
-</div>
-
-
-
-
-
-<div align="center">
-<!-- Stats Cards -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="GitHub Stats" height="195" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" height="195" />
-</div>
-
-
-
-
-
-<div align="center">
-<!-- Streak Stats -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dzulbulai%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub Streak" />
-</div>
-
-<!-- सोशल मीडिया कनेक्ट आइकन्स (बड़े और कलरफुल) -->
-
-<h2 align="center">🤝 Let's Connect!</h2>
 <p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="zulbulai" height="165" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="zulbulai" height="165" />
+</p>
+
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dzulbulai%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="zulbulai" />
+</p>
+
+🤝 Connect with me:
+
+<p align="left">
 <a href="https://linkedin.com/in/Jitendrapaluno" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
@@ -123,9 +84,3 @@ I am a highly motivated <b>Full Stack Developer</b> with a deep passion for buil
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube" />
 </a>
 </p>
-
-<!-- फूटर एनिमेटेड लाइन -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0e75b6%26height%3D100%26section%3Dfooter" width="100%"/>
-</div>
