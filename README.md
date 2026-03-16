@@ -1,130 +1,78 @@
-<h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
+<!-- ======================= HEADER ======================= --><h1 align="center">Hi 👋, I'm Jitendra Kumar</h1><h3 align="center">🚀 Full Stack Web Developer | Automation Builder</h3><p align="center">
+Building scalable web apps, automation systems, and powerful digital tools.
+</p><p align="center"><a href="https://github.com/zulbulai">
+<img src="https://img.shields.io/github/followers/zulbulai?label=Follow&style=social"/>
+</a><img src="https://komarev.com/ghpvc/?username=zulbulai&label=Profile%20Views&color=0e75b6&style=flat"/></p>---
 
-<h3 align="center">🚀 Full Stack Web Developer | Automation Builder</h3>
+<!-- ======================= TYPING ANIMATION ======================= --><p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=Full+Stack+Developer;Automation+Builder;React+%7C+Node.js+Developer;Building+Automation+Systems;Creating+Powerful+Web+Applications"/></p>---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Automation+Tools+Builder;React+%7C+Node.js+Developer;Building+Digital+Automation+Systems;Creating+Smart+Web+Solutions" />
-</p>
+👨‍💻 About Me
 
----
-
-# 👨‍💻 About Me
-
-- 🔭 Currently building **automation systems and scalable web apps**
-- 🌱 Learning **advanced backend architecture & cloud systems**
-- 💬 Ask me about **React, Node.js, Automation, SaaS tools**
-- ⚡ I love building **tools that automate boring work**
-- 📫 Reach me at **jitendraeditiz@gmail.com**
+- 🔭 Currently building Automation Tools & Web Applications
+- 🌱 Learning System Design & Scalable Architecture
+- 👯 Open to collaborate on SaaS, Automation & Web Projects
+- 💬 Ask me about React, Node.js, APIs, Automation Systems
+- 📫 Email: jitendraeditiz@gmail.com
 
 ---
 
-# 🌐 Connect With Me
+🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/zulbulai">
+<p align="left"><a href="https://github.com/zulbulai">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-<a href="https://linkedin.com/in/Jitendrapaluno">
+</a><a href="https://linkedin.com/in/Jitendrapaluno">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://instagram.com/Jitendrauno">
+</a><a href="https://instagram.com/Jitendrauno">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-
-<a href="https://twitter.com/Jitendrauno">
+</a><a href="https://twitter.com/Jitendrauno">
 <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-
-<a href="https://youtube.com/Jitendrauno">
+</a><a href="https://youtube.com/Jitendrauno">
 <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-</a>
+</a></p>---
 
-</p>
+⚡ Tech Stack
 
----
-
-# ⚡ Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<p align="left"><img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
 <img src="https://skillicons.dev/icons?i=docker" height="45"/>
 <img src="https://skillicons.dev/icons?i=aws" height="45"/>
-<img src="https://skillicons.dev/icons?i=figma" height="45"/>
-<img src="https://skillicons.dev/icons?i=photoshop" height="45"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+<img src="https://skillicons.dev/icons?i=figma" height="45"/></p>---
 
-</p>
+🚀 Featured Projects
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulbulai&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulbulai&layout=compact&theme=tokyonight"/>
-
-</p>
+Project| Description
+Automation Platform| Marketing automation system
+Telegram Bot| Lead generation automation
+Web Application| Full stack SaaS project
+Poster Generator| AI powered design generator
+API Backend| Node.js scalable backend
 
 ---
 
-# 🔥 GitHub Streak
+📊 GitHub Stats
 
-<p align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zulbulai&show_icons=true&theme=tokyonight&hide_border=true"/></p>---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zulbulai&theme=tokyonight"/>
+🔥 GitHub Streak
 
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zulbulai&theme=tokyonight&hide_border=true"/></p>---
 
----
+📈 Top Languages
 
-# 📈 Contribution Graph
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulbulai&layout=compact&theme=tokyonight&hide_border=true"/></p>---
 
-<p align="center">
+📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulbulai&theme=tokyo-night"/>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zulbulai&theme=tokyo-night"/></p>---
 
-</p>
+🐍 Contribution Snake
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/></p>---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zulbulai&theme=tokyonight&row=1"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-🔹 Automation Tools  
-🔹 Telegram Bots  
-🔹 Web Applications  
-🔹 Digital Marketing Systems  
-🔹 Poster Design Generator  
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=zulbulai&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-⭐ From **Jitendra Kumar**
+⭐ Follow me for Web Development & Automation Projects
