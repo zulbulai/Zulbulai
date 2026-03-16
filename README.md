@@ -1,49 +1,68 @@
-# Hi 👋, I'm Jitendra Kumar
-
-### A passionate Html developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulbulai&label=Profile views&color=0e75b6&style=flat" alt="zulbulai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulbulai" alt="zulbulai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Jitendrauno" target="blank"><img src="https://img.shields.io/twitter/follow/Jitendrauno?logo=twitter&style=for-the-badge" alt="Jitendrauno" /></a> </p>
-
-- 🔭 I'm currently working on **working**
-
-- 🌱 I'm currently learning **learning**
-
-- 👯 I'm looking to collaborate on **collaborate**
-
-- 🤝 I'm looking for help with **looking for help with**
-
-- 💬 Ask me about **React, Node.js, and web development
-**
-
-- 📫 How to reach me **jitendraeditiz@gmail.com**
-
-- ⚡ Fun fact **Fact**
-
-- 👨‍💻 All of my projects are available at **[https://yourportfolio.com](https://yourportfolio.com)**
-
-- 📝 I regularly write articles on **[https://yourportfolio.com](https://yourportfolio.com)**
-
-- 📄 Know about my experiences **[https://yourportfolio.com](https://yourportfolio.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/zulbulai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zulbulai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Jitendrapaluno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jitendrapaluno" height="30" width="40" /></a>
-<a href="https://instagram.com/Jitendrauno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jitendrauno" height="30" width="40" /></a>
-<a href="https://twitter.com/Jitendrauno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jitendrauno" height="30" width="40" /></a>
-<a href="https://youtube.com/Jitendrauno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jitendrauno" height="30" width="40" /></a>
+<div align="center">
+Hi there 👋, I'm Jitendra Kumar
+🚀 Passionate Full Stack Web Developer
+<p align="center">
+<a href="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dzulbulai%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dzulbulai%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="zulbulai" />
+</a>
 </p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dzulbulai%26theme%3Ddracula%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15" alt="zulbulai" />
+</a>
+</p>
+<a href="https://www.google.com/search?q=https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D0E75B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BDeveloper%3BReact%2B%257C%2BNode.js%2BEnthusiast%3BAlways%2Blearning%2Bnew%2Btech%3BBuilding%2Bscalable%2Bweb%2Bapps" alt="Typing SVG" />
+</a>
+</div>
+👨‍💻 About Me
+I am a highly motivated Full Stack Developer with a passion for building robust, scalable, and user-friendly web applications. I love transforming complex problems into elegant, efficient, and maintainable code.
+ * 🔭 Currently working on: Building modern web applications using the MERN stack.
+ * 🌱 Currently learning: Advanced Cloud Architecture (AWS) & Next.js SSR.
+ * 👯 Looking to collaborate on: Open-source projects and innovative tech startups.
+ * 💬 Ask me about: React, Node.js, JavaScript, and Frontend Architecture.
+ * 📫 How to reach me: jitendraeditiz@gmail.com
+ * 👨‍💻 Portfolio: Visit my website (Update your link here)
+ * ⚡ Fun fact: I can debug code in my sleep (almost)!
+🛠️ Tech Stack & Arsenal
+Here are the technologies and tools I work with regularly to bring ideas to life:
+🌐 Frontend
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,vue,tailwind,sass,figma" />
+</p>
+💻 Backend & Database
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,php,python,cpp,mongodb,mysql,firebase" />
+</p>
+⚙️ DevOps, Cloud & Tools
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,docker,linux,androidstudio,flutter" />
+</p>
+📊 GitHub Analytics
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="zulbulai's GitHub Stats" height="195" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" height="195" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulbulai&show_icons=true&locale=en&layout=compact" alt="zulbulai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulbulai&show_icons=true&locale=en" alt="zulbulai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulbulai&" alt="zulbulai" /></p>
-
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dzulbulai%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub Streak" />
+</div>
+🤝 Let's Connect!
+<div align="center">
+<a href="https://linkedin.com/in/Jitendrapaluno" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/Jitendrauno" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" />
+</a>
+<a href="https://instagram.com/Jitendrauno" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram" />
+</a>
+<a href="https://youtube.com/Jitendrauno" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube" />
+</a>
+</div>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0e75b6%26height%3D100%26section%3Dfooter" width="100%"/>
+</div>
