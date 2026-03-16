@@ -1,86 +1,130 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0e75b6%26height%3D120%26section%3Dheader%26text%3DHi%2520👋,%20I'm%20Jitendra%20Kumar&fontSize=35&fontAlignY=40&animation=fadeIn" width="100%"/>
+<h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
 
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D20%26pause%3D1000%26color%3D0E75B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DPassionate%2BFull%2BStack%2BDeveloper%3BReact,%2BNode.js%2B%2526%2BWeb%2BDev%3BBuilding%2BScalable%2BWeb%2BApps" alt="Typing SVG" />
-</a>
-
-<p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dzulbulai%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue" alt="zulbulai" /></a>
-</p>
-
-<p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dzulbulai%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat-square" alt="zulbulai" />
-<a href="https://twitter.com/Jitendrauno" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/twitter/follow/Jitendrauno%3Flogo%3Dtwitter%26style%3Dflat-square%26color%3D1DA1F2" alt="Jitendrauno" /></a>
-</p>
-</div>
-
-👨‍💻 About Me
-
-🔭 I'm currently working on MERN Stack Web Applications
-
-🌱 I'm currently learning Next.js & Cloud Architecture
-
-👯 I'm looking to collaborate on Open-source projects
-
-🤝 I'm looking for help with Advanced UI/UX Architecture
-
-💬 Ask me about React, Node.js, and web development
-
-📫 How to reach me: jitendraeditiz@gmail.com
-
-👨‍💻 All of my projects are available at https://yourportfolio.com
-
-⚡ Fun fact: I turn coffee into code and bugs into features! ☕
-
-🛠️ Languages and Tools:
-
-<p align="left">
-<!-- Frontend -->
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,vue,tailwind,sass,figma" />
-</a>
-</p>
-<p align="left">
-<!-- Backend & DB -->
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,php,python,cpp,mongodb,mysql,firebase" />
-</a>
-</p>
-<p align="left">
-<!-- Tools -->
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,docker,linux,androidstudio,flutter,git,github" />
-</a>
-</p>
-
-📊 GitHub Analytics:
+<h3 align="center">🚀 Full Stack Web Developer | Automation Builder</h3>
 
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="zulbulai" height="165" />
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dzulbulai%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="zulbulai" height="165" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Automation+Tools+Builder;React+%7C+Node.js+Developer;Building+Digital+Automation+Systems;Creating+Smart+Web+Solutions" />
 </p>
 
-<p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dzulbulai%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="zulbulai" />
-</p>
+---
 
-🤝 Connect with me:
+# 👨‍💻 About Me
+
+- 🔭 Currently building **automation systems and scalable web apps**
+- 🌱 Learning **advanced backend architecture & cloud systems**
+- 💬 Ask me about **React, Node.js, Automation, SaaS tools**
+- ⚡ I love building **tools that automate boring work**
+- 📫 Reach me at **jitendraeditiz@gmail.com**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/Jitendrapaluno" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+
+<a href="https://github.com/zulbulai">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-<a href="https://github.com/zulbulai" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
+
+<a href="https://linkedin.com/in/Jitendrapaluno">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://twitter.com/Jitendrauno" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" />
+
+<a href="https://instagram.com/Jitendrauno">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://instagram.com/Jitendrauno" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram" />
+
+<a href="https://twitter.com/Jitendrauno">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
-<a href="https://youtube.com/Jitendrauno" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube" />
+
+<a href="https://youtube.com/Jitendrauno">
+<img src="https://skillicons.dev/icons?i=youtube" height="40"/>
 </a>
+
 </p>
+
+---
+
+# ⚡ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+<img src="https://skillicons.dev/icons?i=photoshop" height="45"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulbulai&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulbulai&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zulbulai&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulbulai&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zulbulai&theme=tokyonight&row=1"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🔹 Automation Tools  
+🔹 Telegram Bots  
+🔹 Web Applications  
+🔹 Digital Marketing Systems  
+🔹 Poster Design Generator  
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=zulbulai&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+⭐ From **Jitendra Kumar**
