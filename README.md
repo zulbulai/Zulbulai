@@ -1,94 +1,283 @@
-<!-- ================= HACKER ANIMATED BANNER ================= --><p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN2eXB4eXZ6M3l3aXJ5azl1bXl5dXk5Z3Y4c2Vyd2NrdG0yZHFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100%" />
-</p><h1 align="center">Hi 👋 I'm Jitendra Kumar</h1><h3 align="center">🚀 Full Stack Web Developer | Automation Builder</h3><p align="center">
-Building powerful web apps, automation systems and scalable digital tools
-</p>---
+<!-- =========================================================
+     JITENDRA KUMAR • ZULBULAI
+     Premium GitHub Profile README
+     ========================================================= -->
 
-<!-- ================= FOLLOW BUTTONS ================= --><p align="center"><a href="https://github.com/zulbulai">
-<img src="https://img.shields.io/github/followers/zulbulai?label=Follow%20GitHub&style=for-the-badge&logo=github"/>
-</a><a href="https://twitter.com/Jitendrauno">
-<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
-</a><a href="https://instagram.com/Jitendrauno">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
-</a><a href="https://linkedin.com/in/Jitendrapaluno">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a><a href="https://youtube.com/Jitendrauno">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube"/>
-</a></p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=zulbulai&label=Profile%20Views&color=blue&style=for-the-badge"/>
-</p>---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B132B,50:163A63,100:C05A2B&text=JITENDRA%20KUMAR&fontColor=F4EFE7&fontSize=42&fontAlignY=38&desc=DESIGN%20%E2%80%A2%20DEVELOP%20%E2%80%A2%20AUTOMATE%20%E2%80%A2%20GROW&descAlignY=62&descSize=15&animation=twinkling" width="100%" />
+</p>
 
-<!-- ================= TYPING ANIMATION ================= --><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&width=900&lines=Full+Stack+Web+Developer;Automation+Builder;React+%7C+Node.js+Developer;Building+Automation+Tools;Creating+Powerful+Web+Applications"/>
-</p>---
+<p align="center">
+  <a href="https://github.com/zulbulai"><img src="https://img.shields.io/badge/GitHub-zulbulai-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
-👨‍💻 About Me
-
-- 🔭 Building Automation Tools & Web Applications
-- 🌱 Learning Scalable Backend Architecture
-- 👯 Collaborating on SaaS & Automation Systems
-- 💬 Ask me about React, Node.js, APIs
-- 📫 Email jitendraeditiz@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=C05A2B&center=true&vCenter=true&width=900&lines=Graphic+Designer+%7C+Developer+%7C+Automation+Builder;Building+Useful+Digital+Products;WhatsApp+Automation+%7C+Mobile+Apps+%7C+Web+Tools;Designing+systems+that+save+time+and+reduce+manual+work" alt="Typing animation" />
+</p>
 
 ---
 
-⚡ Tech Stack
+# 👋 Hi, I'm **Jitendra Kumar**
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
-<img src="https://skillicons.dev/icons?i=firebase"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
-<img src="https://skillicons.dev/icons?i=photoshop"/>
-<img src="https://skillicons.dev/icons?i=illustrator"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=php"/>
-<img src="https://skillicons.dev/icons?i=linux"/></p>---
+### Design • Development • Automation • Digital Marketing
 
-🚀 Featured Projects
+I create **visuals, apps, web tools and automation systems** that solve practical problems for businesses, creators and everyday users.
 
-Project| Description
-Automation System| Marketing automation platform
-Telegram Bots| Lead automation tools
-Web Applications| Full stack applications
-Poster Generator| Automated graphic generator
-SaaS Tools| Productivity systems
+> **Turning ideas into useful digital products — simple, practical and built to work.**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zulbulai&label=PROFILE%20VIEWS&color=C05A2B&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/zulbulai?label=FOLLOWERS&style=for-the-badge&color=1F3352" />
+  <img src="https://img.shields.io/github/stars/zulbulai?label=TOTAL%20STARS&style=for-the-badge&color=C05A2B" />
+</p>
 
 ---
 
-🏆 GitHub Trophies
+## ⚡ What I Do
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=zulbulai&theme=tokyonight&no-frame=true&row=1"/></p>---
+<table>
+<tr>
+<td width="50%">
 
-📊 GitHub Stats
+### 🎨 Design & Content
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zulbulai&show_icons=true&theme=tokyonight&hide_border=true"/></p>---
+- Graphic Design
+- Social Media Creatives
+- Canva / Affinity
+- Posters & Promotional Designs
+- Video / Short-form Content
+- Brand & UI Visuals
 
-🔥 GitHub Streak
+</td>
+<td width="50%">
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zulbulai&theme=tokyonight&hide_border=true"/></p>---
+### 🧩 Build & Automate
 
-📈 Most Used Languages
+- React / React Native
+- Expo Mobile Apps
+- HTML / CSS / JavaScript
+- Node.js / Electron
+- Google Apps Script
+- WhatsApp API & Automation
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulbulai&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+</td>
+</tr>
+</table>
 
-📊 Contribution Graph
+---
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zulbulai&theme=tokyo-night"/></p>---
+# 🛠️ TOOLS CHANGE. CURIOSITY DOESN'T.
 
-🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,electron,expo,git,github,linux,firebase,mongodb,mysql,figma,photoshop&perline=8" />
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/></p>---
+### Design
+<code>Canva</code> <code>Affinity</code> <code>Photoshop</code> <code>Figma</code> <code>Video Editing</code>
 
-⭐ Support
+### Development
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code> <code>React Native</code> <code>Expo</code> <code>Node.js</code> <code>Electron</code> <code>Python</code>
 
-<p align="center">If you like my work, consider following me on GitHub and social media 🚀
+### Automation
+<code>WhatsApp Cloud API</code> <code>Google Apps Script</code> <code>Google Sheets</code> <code>AI Tools</code> <code>Web Automation</code>
 
+### Marketing & Data
+<code>Meta Ads</code> <code>SEO</code> <code>Google Business Profile</code> <code>Excel</code> <code>SQL</code> <code>Power BI</code>
+
+---
+
+# 🚀 THINGS I'VE BUILT
+
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>What it does</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>InvoiceFine</b></td>
+<td>GST billing, invoices, estimates, products and business receipts</td>
+<td>React Native • Expo</td>
+</tr>
+<tr>
+<td><b>WAFlow</b></td>
+<td>WhatsApp CRM and automation hub using Meta Cloud API</td>
+<td>CRM • Automation</td>
+</tr>
+<tr>
+<td><b>OpenMsg</b></td>
+<td>Open-source WhatsApp CRM / marketing desktop application</td>
+<td>Electron • Node.js</td>
+</tr>
+<tr>
+<td><b>Billora</b></td>
+<td>Offline-first POS, inventory and invoicing desktop suite</td>
+<td>Electron • SQLite</td>
+</tr>
+<tr>
+<td><b>HabitFine</b></td>
+<td>Habit tracking and focused productivity mobile app</td>
+<td>React Native • Expo</td>
+</tr>
+<tr>
+<td><b>PosterPersonalizer</b></td>
+<td>Custom poster and image personalization workflow</td>
+<td>Web • Automation</td>
+</tr>
+<tr>
+<td><b>Pro CSC Tools</b></td>
+<td>Utility toolkit concept for CSC VLE workflows</td>
+<td>Web • Productivity</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+# 📦 FEATURED PROJECTS
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔴 InvoiceFine
+
+**GST Billing App**
+
+<code>React Native</code> <code>Expo</code>
+
+</td>
+<td align="center" width="33%">
+
+### 🟢 WAFlow
+
+**WhatsApp CRM**
+
+<code>Cloud API</code> <code>Automation</code>
+
+</td>
+<td align="center" width="33%">
+
+### ⚫ OpenMsg
+
+**WhatsApp Desktop CRM**
+
+<code>Electron</code> <code>Node.js</code>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🔵 Billora
+
+**POS + Inventory**
+
+<code>Electron</code> <code>SQLite</code>
+
+</td>
+<td align="center" width="33%">
+
+### 🟣 HabitFine
+
+**Habit Tracker**
+
+<code>React Native</code> <code>Expo</code>
+
+</td>
+<td align="center" width="33%">
+
+### 🟠 PosterPersonalizer
+
+**Poster Maker**
+
+<code>Web</code> <code>Automation</code>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 REAL WORK. REAL PROGRESS.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zulbulai&show_icons=true&hide_border=true&bg_color=0B132B&title_color=F4EFE7&text_color=D6DEE8&icon_color=C05A2B&rank_icon=github" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulbulai&hide_border=true&background=0B132B&ring=C05A2B&fire=C05A2B&currStreakLabel=F4EFE7&sideLabels=D6DEE8&dates=94A3B8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulbulai&bg_color=0B132B&color=F4EFE7&line=C05A2B&point=F4EFE7&area=true&hide_border=true" width="96%" />
+</p>
+
+---
+
+# 🐍 CONTRIBUTIONS IN MOTION
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+# 🎯 CURRENT FOCUS
+
+<table>
+<tr>
+<td>📱</td>
+<td><b>Mobile Apps</b><br/>Building practical Android products with React Native + Expo.</td>
+</tr>
+<tr>
+<td>💬</td>
+<td><b>WhatsApp Automation</b><br/>CRM, campaigns, templates, workflows and Meta Cloud API.</td>
+</tr>
+<tr>
+<td>⚙️</td>
+<td><b>Business Automation</b><br/>Replacing repetitive manual workflows with simple systems.</td>
+</tr>
+<tr>
+<td>📈</td>
+<td><b>Digital Marketing</b><br/>Content, SEO, Meta Ads and business growth systems.</td>
+</tr>
+</table>
+
+---
+
+# 💡 BUILD. AUTOMATE. DESIGN. GROW.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0B132B&text=Small%20Tools%20%E2%86%92%20Big%20Impact&fontColor=F4EFE7&fontSize=30&animation=twinkling" width="96%" />
+</p>
+
+> **I don't want to build software just because I can.  
+> I want to build software that makes someone's work easier.**
+
+---
+
+# 🤝 LET'S CONNECT
+
+<p align="center">
+  <a href="https://github.com/zulbulai">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-111827?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:jitendraeditiz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-C05A2B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Design • Develop • Automate • Learn • Repeat</b>
+</p>
+
+<p align="center">
+  <sub>Built from Unnao, Uttar Pradesh 🇮🇳 • Powered by curiosity.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B132B,50:163A63,100:C05A2B&animation=twinkling" width="100%" />
 </p>
